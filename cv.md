@@ -1,11 +1,11 @@
 # Baraniuk Vladimir
-### Junior Frontend Developer
+### Junior Frontend Developer  
 ---
-### Contact information:
+### Contact information:  
 
 Phone: +972 123 4567890  
 Email: vladimirbaraniuk@gmail.com  
-Telegram: @norb4ki
+Telegram: @norb4ki  
 ---
 ### Skills and Proficiency:
 
@@ -13,13 +13,13 @@ Telegram: @norb4ki
 - Java Core
 - JavaScript Basics
 - Git, Github
-- Webstorm, InteliJ IDEA
+- Webstorm, InteliJ IDEA  
 ---
 ### Languages
 
 - English - B2
 - Russian - Native
-- Hebrew - Aleph
+- Hebrew - Aleph  
 ---
 ### Education
 
